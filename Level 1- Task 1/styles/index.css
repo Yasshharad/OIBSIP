@@ -312,6 +312,12 @@
         gap: 50px;
         padding-left: 160px;
     }
+
+    .adv {
+        width: 850px;
+        text-align: center;
+        justify-content: center;
+    }
 }
 
 /* last */
