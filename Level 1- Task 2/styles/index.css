@@ -17,7 +17,6 @@ nav {
     z-index: 100;
 }
 
-/* Adjustments for Logo */
 .logo {
     margin-left: 50px;
     display: flex;
@@ -46,7 +45,6 @@ nav {
     width: 60px;
 }
 
-/* Menu Styles */
 .menu {
     display: none;
     list-style: none;
@@ -91,14 +89,12 @@ nav {
     color: #fffb00;
 }
 
-/* Menu Icon Styles */
 .menu-icon {
     font-size: 1.5em;
     cursor: pointer;
     display: none;
 }
 
-/* Media queries for responsive design */
 @media screen and (max-width: 768px) and (min-width: 412px) {
     nav {
         display: flex;
@@ -407,7 +403,6 @@ nav {
 }
 
 /* skills */
-
 .skills-section {
     padding: 100px 0;
 }
@@ -520,7 +515,6 @@ nav {
     filter: drop-shadow(5px 5px 5px #fffb00);
 }
 
-/* Styles for Company Logo, Position, Company, Employment Date, Responsibilities */
 .company-logo img {
     height: 50px;
     margin-right: 20px;
@@ -708,7 +702,6 @@ nav {
     }
 }
 
-/* Hover effect for links */
 .live-link:hover,
 .github-link:hover {
     transform: translateY(-2px);
@@ -734,7 +727,6 @@ nav {
     flex-wrap: wrap;
 }
 
-/* Profile Section */
 .profile {
     flex: 1;
     margin-bottom: 2rem;
